@@ -1,1 +1,5 @@
-# 2400032424-Insem-209
+function greet() {
+  console.log('Hello from Alice!');
+}
+
+greet();
